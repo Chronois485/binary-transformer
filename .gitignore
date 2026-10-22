@@ -8,6 +8,5 @@ wheels/
 
 # Virtual environments
 .venv
-src/binary_transformer/__init__.py
 uv.lock
 .python-version
